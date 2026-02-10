@@ -5,5 +5,5 @@ class Gato:
         self.color = color
         
     def saludar(self):
-        #Esta función hará que el gato salude
+        #Esta función hará que el gato salude.
         return f"Hola, me llamo {self.nombre}, tengo {self.edad} años y soy de color {self.color}."
