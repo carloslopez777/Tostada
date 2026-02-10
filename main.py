@@ -2,7 +2,6 @@ from entidades.gato import Gato
 from entidades.pato import Pato
 from entidades.pinguino import Pinguino
 
-#Definir parámetros
 object1 = Gato("Anastacio", 3, "Negro con gris")
 print (object1.saludar())
 
